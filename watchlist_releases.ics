@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//Letterboxd Tracker//EN
 X-WR-CALNAME:Letterboxd Watchlist
 BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:letterboxd-1585239@script.local
+DESCRIPTION:https://letterboxd.com/film/club-kid/
+URL:https://letterboxd.com/film/club-kid/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Debut
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
@@ -76,14 +84,6 @@ DESCRIPTION:https://letterboxd.com/film/you-can-see-everything/
 URL:https://letterboxd.com/film/you-can-see-everything/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-UID:letterboxd-1375441@script.local
-DESCRIPTION:https://letterboxd.com/film/primetime-2026/
-URL:https://letterboxd.com/film/primetime-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The History of Concrete
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
@@ -118,8 +118,8 @@ URL:https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ray Gunn
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
 UID:letterboxd-940009@script.local
 DESCRIPTION:https://letterboxd.com/film/ray-gunn/
 URL:https://letterboxd.com/film/ray-gunn/
