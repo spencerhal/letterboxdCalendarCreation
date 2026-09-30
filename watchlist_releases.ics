@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//Letterboxd Tracker//EN
 X-WR-CALNAME:Letterboxd Watchlist
 BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:letterboxd-891621@script.local
+DESCRIPTION:https://letterboxd.com/film/wild-horse-nine/
+URL:https://letterboxd.com/film/wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club Kid
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
