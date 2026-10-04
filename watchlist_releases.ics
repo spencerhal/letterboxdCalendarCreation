@@ -11,6 +11,14 @@ DESCRIPTION:https://letterboxd.com/film/wild-horse-nine/
 URL:https://letterboxd.com/film/wild-horse-nine/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Life
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+UID:letterboxd-1458857@script.local
+DESCRIPTION:https://letterboxd.com/film/life-2017/
+URL:https://letterboxd.com/film/life-2017/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club Kid
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -198,13 +206,5 @@ UID:letterboxd-1090869@script.local
 DESCRIPTION:https://letterboxd.com/film/the-lord-of-the-rings-the-hunt-for
  -gollum/
 URL:https://letterboxd.com/film/the-lord-of-the-rings-the-hunt-for-gollum/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-UID:letterboxd-1393326@script.local
-DESCRIPTION:https://letterboxd.com/film/ghost/
-URL:https://letterboxd.com/film/ghost/
 END:VEVENT
 END:VCALENDAR
