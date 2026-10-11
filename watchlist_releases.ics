@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//Letterboxd Tracker//EN
 X-WR-CALNAME:Letterboxd Watchlist
 BEGIN:VEVENT
+SUMMARY:A Talent for Murder
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+UID:letterboxd-1084409@script.local
+DESCRIPTION:https://letterboxd.com/film/a-talent-for-murder-2026/
+URL:https://letterboxd.com/film/a-talent-for-murder-2026/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -69,8 +77,8 @@ URL:https://letterboxd.com/film/wildwood-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
 UID:letterboxd-1381071@script.local
 DESCRIPTION:https://letterboxd.com/film/godzilla-minus-zero/
 URL:https://letterboxd.com/film/godzilla-minus-zero/
@@ -82,14 +90,6 @@ DTEND;VALUE=DATE:20261114
 UID:letterboxd-1286656@script.local
 DESCRIPTION:https://letterboxd.com/film/i-play-rocky/
 URL:https://letterboxd.com/film/i-play-rocky/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-UID:letterboxd-1058424@script.local
-DESCRIPTION:https://letterboxd.com/film/hope-2026/
-URL:https://letterboxd.com/film/hope-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Can See Everything
@@ -139,14 +139,6 @@ DTEND;VALUE=DATE:20261205
 UID:letterboxd-940009@script.local
 DESCRIPTION:https://letterboxd.com/film/ray-gunn/
 URL:https://letterboxd.com/film/ray-gunn/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-UID:letterboxd-1248832@script.local
-DESCRIPTION:https://letterboxd.com/film/digger-2026/
-URL:https://letterboxd.com/film/digger-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Josephine
