@@ -43,14 +43,6 @@ DESCRIPTION:https://letterboxd.com/film/the-debut-2026/
 URL:https://letterboxd.com/film/the-debut-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:If I Go Will They Miss Me
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-UID:letterboxd-1596248@script.local
-DESCRIPTION:https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/
-URL:https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mr. Irrelevant
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
@@ -85,8 +77,8 @@ URL:https://letterboxd.com/film/godzilla-minus-zero/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Play Rocky
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
 UID:letterboxd-1286656@script.local
 DESCRIPTION:https://letterboxd.com/film/i-play-rocky/
 URL:https://letterboxd.com/film/i-play-rocky/
