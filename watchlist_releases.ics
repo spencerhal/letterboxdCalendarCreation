@@ -20,9 +20,9 @@ URL:https://letterboxd.com/film/wild-horse-nine/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Life
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-UID:letterboxd-1458857@script.local
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+UID:letterboxd-1381078@script.local
 DESCRIPTION:https://letterboxd.com/film/life-2017/
 URL:https://letterboxd.com/film/life-2017/
 END:VEVENT
@@ -84,22 +84,6 @@ DESCRIPTION:https://letterboxd.com/film/i-play-rocky/
 URL:https://letterboxd.com/film/i-play-rocky/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-UID:letterboxd-1765072@script.local
-DESCRIPTION:https://letterboxd.com/film/you-can-see-everything/
-URL:https://letterboxd.com/film/you-can-see-everything/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-UID:letterboxd-1596296@script.local
-DESCRIPTION:https://letterboxd.com/film/the-history-of-concrete/
-URL:https://letterboxd.com/film/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Behemoth!
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
@@ -114,15 +98,6 @@ DTEND;VALUE=DATE:20261024
 UID:letterboxd-858035@script.local
 DESCRIPTION:https://letterboxd.com/film/klara-and-the-sun/
 URL:https://letterboxd.com/film/klara-and-the-sun/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-UID:letterboxd-1477104@script.local
-DESCRIPTION:https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy
- -bottom/
-URL:https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ray Gunn
