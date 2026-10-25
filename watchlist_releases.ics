@@ -60,14 +60,6 @@ DESCRIPTION:https://letterboxd.com/film/your-mother-your-mother-your-mothe
 URL:https://letterboxd.com/film/your-mother-your-mother-your-mother/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-UID:letterboxd-791523@script.local
-DESCRIPTION:https://letterboxd.com/film/wildwood-2026/
-URL:https://letterboxd.com/film/wildwood-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
@@ -90,6 +82,14 @@ DTEND;VALUE=DATE:20261205
 UID:letterboxd-1452168@script.local
 DESCRIPTION:https://letterboxd.com/film/behemoth-2026/
 URL:https://letterboxd.com/film/behemoth-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holiday
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+UID:letterboxd-1581@script.local
+DESCRIPTION:https://letterboxd.com/film/the-holiday/
+URL:https://letterboxd.com/film/the-holiday/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klara and the Sun
