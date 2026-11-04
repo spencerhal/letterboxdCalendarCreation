@@ -141,14 +141,6 @@ DESCRIPTION:https://letterboxd.com/film/spider-man-beyond-the-spider-verse
 URL:https://letterboxd.com/film/spider-man-beyond-the-spider-verse/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Verity
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-UID:letterboxd-1283515@script.local
-DESCRIPTION:https://letterboxd.com/film/verity-2026/
-URL:https://letterboxd.com/film/verity-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Incredibles 3
 DTSTART;VALUE=DATE:20280616
 DTEND;VALUE=DATE:20280617
