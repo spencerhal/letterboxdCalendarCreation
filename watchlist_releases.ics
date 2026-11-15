@@ -3,6 +3,22 @@ VERSION:2.0
 PRODID:-//Letterboxd Tracker//EN
 X-WR-CALNAME:Letterboxd Watchlist
 BEGIN:VEVENT
+SUMMARY:Iron Boy
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+UID:letterboxd-947493@script.local
+DESCRIPTION:https://letterboxd.com/film/iron-boy/
+URL:https://letterboxd.com/film/iron-boy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mouse
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:letterboxd-1241052@script.local
+DESCRIPTION:https://letterboxd.com/film/mouse-2026/
+URL:https://letterboxd.com/film/mouse-2026/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sense and Sensibility
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
