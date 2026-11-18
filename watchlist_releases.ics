@@ -19,14 +19,6 @@ DESCRIPTION:https://letterboxd.com/film/mouse-2026/
 URL:https://letterboxd.com/film/mouse-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sense and Sensibility
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-UID:letterboxd-1503762@script.local
-DESCRIPTION:https://letterboxd.com/film/sense-and-sensibility-2026/
-URL:https://letterboxd.com/film/sense-and-sensibility-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Talent for Murder
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
@@ -164,6 +156,14 @@ DTEND;VALUE=DATE:20261107
 UID:letterboxd-1697911@script.local
 DESCRIPTION:https://letterboxd.com/film/boy-2010/
 URL:https://letterboxd.com/film/boy-2010/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psycho
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+UID:letterboxd-1379486@script.local
+DESCRIPTION:https://letterboxd.com/film/psycho/
+URL:https://letterboxd.com/film/psycho/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghost
