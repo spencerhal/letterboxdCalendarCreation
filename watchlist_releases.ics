@@ -19,14 +19,6 @@ DESCRIPTION:https://letterboxd.com/film/mouse-2026/
 URL:https://letterboxd.com/film/mouse-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Talent for Murder
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-UID:letterboxd-1084409@script.local
-DESCRIPTION:https://letterboxd.com/film/a-talent-for-murder-2026/
-URL:https://letterboxd.com/film/a-talent-for-murder-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -81,14 +73,6 @@ DTEND;VALUE=DATE:20261212
 UID:letterboxd-1581@script.local
 DESCRIPTION:https://letterboxd.com/film/the-holiday/
 URL:https://letterboxd.com/film/the-holiday/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klara and the Sun
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-UID:letterboxd-858035@script.local
-DESCRIPTION:https://letterboxd.com/film/klara-and-the-sun/
-URL:https://letterboxd.com/film/klara-and-the-sun/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ray Gunn
@@ -147,14 +131,6 @@ DTEND;VALUE=DATE:20261107
 UID:letterboxd-1697911@script.local
 DESCRIPTION:https://letterboxd.com/film/boy-2010/
 URL:https://letterboxd.com/film/boy-2010/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Psycho
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-UID:letterboxd-1379486@script.local
-DESCRIPTION:https://letterboxd.com/film/psycho/
-URL:https://letterboxd.com/film/psycho/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghost
